@@ -27,7 +27,7 @@ The Symbolic Simplifier is a Haskell-based tool designed to efficiently reduce s
 
 ## Build the project (requires Haskell and Cabal):
 
-    cabal build
+      cabal build
 
 ## Usage
 
