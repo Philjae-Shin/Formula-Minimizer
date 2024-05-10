@@ -46,4 +46,4 @@ To perform simplifications, input expressions in the format specified by the app
 
 ## Contributing
 
-Contributions to the Symbolic Simplifier are welcome. Please feel free to fork the repository, make improvements, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+Contributions to the Formula Minimizer are welcome. Please feel free to fork the repository, make improvements, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
