@@ -1,7 +1,7 @@
 # Formula Minimizer
 
 ## Introduction
-The Symbolic Simplifier is a Haskell-based tool designed to efficiently reduce symbolic arithmetic expressions. It handles operations involving addition, multiplication, and integer exponentiation. This project leverages functional programming paradigms to ensure concise and correct implementations.
+The Formula Minimizer is a Haskell-based tool designed to efficiently reduce symbolic arithmetic expressions. It handles operations involving addition, multiplication, and integer exponentiation. This project leverages functional programming paradigms to ensure concise and correct implementations.
 
 ## Features
 - **Simplification of Expressions:** Reduces complex arithmetic expressions by eliminating unnecessary elements, such as multiplication by one or addition of zero.
