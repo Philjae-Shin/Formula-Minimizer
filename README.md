@@ -26,14 +26,14 @@ The Symbolic Simplifier is a Haskell-based tool designed to efficiently reduce s
 -  Run cabal test (this will run the tests)
 
 ## Build the project (requires Haskell and Cabal):
-    ```bash
+
     cabal build
 
 ## Usage
 
 After building the project, you can run the simplifier using:
-    ```bash
-    cabal run
+     
+      cabal run
 
 To perform simplifications, input expressions in the format specified by the application's guidelines. The tool supports both direct command-line inputs and file-based expression processing.
 
