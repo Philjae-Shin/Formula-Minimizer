@@ -11,7 +11,7 @@ The Symbolic Simplifier is a Haskell-based tool designed to efficiently reduce s
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-username]/symbolic-simplifier.git
+   git clone https://github.com/henry3361/Formula-Minimizer.git
 
 ## Useful cabal commands
 
