@@ -13,13 +13,6 @@ The Formula Minimizer is a Haskell-based tool designed to efficiently reduce sym
    ```bash
    git clone https://github.com/henry3361/Formula-Minimizer.git
 
-## Useful cabal commands
-
-- Update package list: `cabal update`
-- Compile Simplify.hs and tests: `cabal build`
-- Run tests: `cabal test`
-- Open Simplify.hs in GHCi: `cabal repl`
-
 ## Compiling and running tests
 -  Run `cabal update` (this will update your package list for Haskell libraries)
 -  Run `cabal build` (this will build your project and the tests, which may take a little while the first time)
@@ -44,6 +37,16 @@ After building the project, you can run the simplifier using:
 
 To perform simplifications, input expressions in the format specified by the application's guidelines. The tool supports both direct command-line inputs and file-based expression processing.
 
+
 ## Contributing
 
 Contributions to the Formula Minimizer are welcome. Please feel free to fork the repository, make improvements, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+
+## Useful cabal commands
+
+- Update package list: `cabal update`
+- Compile and tests: `cabal build`
+- Run tests: `cabal test`
+- Open in GHCi: `cabal repl`
+
