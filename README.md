@@ -21,9 +21,9 @@ The Formula Minimizer is a Haskell-based tool designed to efficiently reduce sym
 - Open Simplify.hs in GHCi: `cabal repl`
 
 ## Compiling and running tests
--  Run cabal update (this will update your package list for Haskell libraries)
--  Run cabal build (this will build your project and the tests, which may take a little while the first time)
--  Run cabal test (this will run the tests)
+-  Run `cabal update` (this will update your package list for Haskell libraries)
+-  Run `cabal build` (this will build your project and the tests, which may take a little while the first time)
+-  Run `cabal test` (this will run the tests)
 
 ## Update cabal
 
